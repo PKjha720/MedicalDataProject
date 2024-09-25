@@ -1,0 +1,6 @@
+# Ignore virtual environment
+med_env/
+
+# Ignore system files
+.DS_Store
+*.log
